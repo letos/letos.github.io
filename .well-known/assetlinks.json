@@ -1,0 +1,9 @@
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "by.shostko.tester",
+    "sha256_cert_fingerprints":
+    ["EE:BD:E9:EF:D8:BF:62:EC:32:3F:2B:FB:C3:A5:36:CA:DB:DE:1D:B1:FC:2D:AC:DF:A8:FF:42:7B:B2:24:64:45"]
+  }
+}]
